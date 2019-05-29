@@ -15,4 +15,4 @@ This design is NOT waterproof. I've attempted multiple methods to waterproof it,
 
 Solder the small wires onto the edges of the switch and not the bottom or else the increase in height
 
-![Switch Solder](/Switches/images/Switch.jpg "Switch Soldering orientation")
+![Switch Solder](/Switches/Images/Switch.jpg "Switch Soldering orientation")
