@@ -14,3 +14,5 @@ https://www.digikey.ca/product-detail/en/panasonic-electronic-components/EVQ-3PL
 This design is NOT waterproof. I've attempted multiple methods to waterproof it, but no success yet. My plan is to revise this design with Tact switches that are waterproof and over 600gram-force, englarge the design for a PCB, and secure it with an adhesive.
 
 Solder the small wires onto the edges of the switch and not the bottom or else the increase in height
+
+![Switch Solder](/images/Switch.jpg "Switch Soldering orientation")
