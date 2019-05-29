@@ -10,4 +10,3 @@ It's designed for about 0.8mm of total clearance on a standard 1.125" (28.6mm ap
 STL files should be printed such that the layers wrap around the bulk of the length (flat side edges down). Mirror the design in CAD (step) or 3d printing software to filp the edges. Don't print using supports. The overhang is very small and most machines are capable without support, but if you use support you'll have a issue getting it out.
 
 ![Slice](/Stem/Images/Slice.jpg "Slice Orentiation")
-
