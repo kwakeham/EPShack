@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Tension)(type Legacy)(uri ${KIPRJMOD}/Tension.lib)(options "")(descr ""))
+)

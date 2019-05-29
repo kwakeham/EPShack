@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet, Digikey, DigiKey
+C1 C3 ,2,"1uF","Capacitor_SMD:C_0805_2012Metric","~","1276-6471-1-ND",""
+C2 ,1,".22uF","Capacitor_SMD:C_0805_2012Metric","~","311-4267-1-ND",""
+D1 D2 ,2,"LED","LED_SMD:LED_1206_3216Metric","~","754-1940-1-ND",""
+J1 ,1,"Conn_01x04","Connector_Wire:SolderWirePad_1x04_P3.81mm_Drill1.2mm","~"
+J3 J2 ,2,"Conn_01x01","Connector_Wire:SolderWirePad_1x01_Drill1mm","~"
+R1 ,1,"5.6K","Resistor_SMD:R_0805_2012Metric","~","311-5.6KARCT-ND",""
+R2 ,1,"3K","Resistor_SMD:R_0805_2012Metric","~","","311-3.00KCRCT-ND"
+R3 ,1,"2.55M","Resistor_SMD:R_0805_2012Metric","~","311-2.55MCRCT-ND",""
+R4 ,1,"261K","Resistor_SMD:R_0805_2012Metric","~","311-261KCRCT-ND",""
+R5 ,1,"10K","Resistor_SMD:R_0805_2012Metric","~","P10KACT-ND",""
+R6 ,1,"5.23K","Resistor_SMD:R_0805_2012Metric","~","","311-5.23KCRCT-ND"
+U1 ,1,"LTC4079","Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm","https://www.analog.com/media/en/technical-documentation/data-sheets/4079f.pdf","LTC4079EDD#PBF-ND",""

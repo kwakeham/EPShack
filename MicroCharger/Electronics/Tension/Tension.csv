@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D2";"LED_1206_3216Metric";2;"LED";;;
+2;"R6";"R_0805_2012Metric";1;"5.23K";;;
+3;"J1";"SolderWirePad_1x04_P3.81mm_Drill1.2mm";1;"Conn_01x04";;;
+4;"C1,C3";"C_0805_2012Metric";2;"1uF";;;
+5;"C2";"C_0805_2012Metric";1;".22uF";;;
+6;"R1";"R_0805_2012Metric";1;"5.6K";;;
+7;"R2";"R_0805_2012Metric";1;"3K";;;
+8;"R3";"R_0805_2012Metric";1;"2.55M";;;
+9;"R4";"R_0805_2012Metric";1;"261K";;;
+10;"R5";"R_0805_2012Metric";1;"10K";;;
+11;"U1";"DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm";1;"LTC4079";;;
+12;"J2,J3";"SolderWirePad_1x01_Drill1mm";2;"Conn_01x01";;;
