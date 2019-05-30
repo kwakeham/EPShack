@@ -1,5 +1,6 @@
-There are 1 designs here (for now)
+There are 2 designs here (for now)
 EPS-Holder-MKII is a -6 degree stem. 11mm spacer
+EPS-Holder-MKII-12 is a -12 degree stem. 10.5mm spacer
 
 The spacer design is 11mm (rather than 10) to better accomadate the 10mm height on the -6 degree slope. It just worked out this way. You'll need about 10mm of spacer abover it and the EPS unit can't be installed with the stem in place (opps?)
 
