@@ -15,7 +15,7 @@ M5 4pin male "sensor cable"
 
 MT3608 Epacket to Canada and this supplier worked well https://www.aliexpress.com/item/MT3608-DC-DC-Adjustable-Boost-Module-2A-Boost-Plate-2A-Step-Up-Module-with-MICRO-USB/32676502704.html?spm=a2g0s.9042311.0.0.6b784c4dcOo234)
 
-M5 Cable https://www.digikey.ca/product-detail/en/norcomp-inc/CCA-000-M02R227/NOR1446-ND/5639507 (yes, it's expensive!)
+M5 Cable https://www.digikey.ca/products/en/cable-assemblies/circular-cable-assemblies/448?k=&pkeyword=&sv=0&pv2344=3&sf=1&FV=24a8000f%2Cffe001c0%2C25300003&quantity=&ColumnSort=0&page=1&stock=1&pageSize=25 (yes, it's expensive!)
 
 So build it then charge your bike, or check out my Tindie store to order one. In action it looks like this
 
